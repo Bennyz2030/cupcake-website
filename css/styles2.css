@@ -1,0 +1,33 @@
+.best {
+  text-align:center;
+  color:seagreen;
+  font-weight: bold;
+  font-style: oblique;
+}
+
+h1 {
+  text-align: center;
+  color:red
+}
+
+h3 {
+  text-align: center;
+  color:red
+}
+
+img {
+  height: 300px;
+  Width: 300px
+}
+
+p {
+  text-align: center;
+  font-style: italic;
+}
+
+body {
+  background-color: rosybrown;
+}
+
+
+

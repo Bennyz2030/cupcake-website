@@ -1,0 +1,14 @@
+.flashy {
+  color:red;
+  font-style: italic;
+  text-align:center;
+}
+
+p {
+  text-align:center;
+  font-weight: bold;
+}
+
+body {
+  background-color:rosybrown
+}
